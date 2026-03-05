@@ -1,0 +1,17 @@
+[
+  {"id": 1, "userId": 1, "title": "Красивый закат сегодня", "body": "Смотрите, какой цвет неба...", "avatarUrl": "https://i.pravatar.cc/150?img=1"},
+  {"id": 2, "userId": 2, "title": "Новый кофе-мастер-класс", "body": "Приходите все!", "avatarUrl": "https://i.pravatar.cc/150?img=2"},
+  {"id": 3, "userId": 3, "title": "Утренний забег", "body": "5 км до работы — бодрит!", "avatarUrl": "https://i.pravatar.cc/150?img=3"},
+  {"id": 4, "userId": 4, "title": "Домашняя пицца", "body": "Эксперимент с тестом удался.", "avatarUrl": "https://i.pravatar.cc/150?img=4"},
+  {"id": 5, "userId": 5, "title": "Книжный вечер", "body": "Дочитал отличный детектив.", "avatarUrl": "https://i.pravatar.cc/150?img=5"},
+  {"id": 6, "userId": 6, "title": "Фото с похода", "body": "Горы и озёра — мечта.", "avatarUrl": "https://i.pravatar.cc/150?img=6"},
+  {"id": 7, "userId": 7, "title": "Мини-сад на балконе", "body": "Первые ростки базилика.", "avatarUrl": "https://i.pravatar.cc/150?img=7"},
+  {"id": 8, "userId": 8, "title": "Ночь кино", "body": "Пересматриваю классику.", "avatarUrl": "https://i.pravatar.cc/150?img=8"},
+  {"id": 9, "userId": 9, "title": "Новый плейлист", "body": "Собрал музыку для фокуса.", "avatarUrl": "https://i.pravatar.cc/150?img=9"},
+  {"id": 10, "userId": 10, "title": "Рисую акварелью", "body": "Учусь смешивать цвета.", "avatarUrl": "https://i.pravatar.cc/150?img=10"},
+  {"id": 11, "userId": 11, "title": "Готовлю рамен", "body": "Бульон томился 6 часов.", "avatarUrl": "https://i.pravatar.cc/150?img=11"},
+  {"id": 12, "userId": 12, "title": "Пробую йогу", "body": "Удивительно, как расслабляет.", "avatarUrl": "https://i.pravatar.cc/150?img=12"},
+  {"id": 13, "userId": 13, "title": "Вечер настолок", "body": "Сыграли 4 партии подряд.", "avatarUrl": "https://i.pravatar.cc/150?img=13"},
+  {"id": 14, "userId": 14, "title": "Питомец дня", "body": "Кот снова занял клавиатуру.", "avatarUrl": "https://i.pravatar.cc/150?img=14"},
+  {"id": 15, "userId": 15, "title": "План на выходные", "body": "Хочу выехать за город.", "avatarUrl": "https://i.pravatar.cc/150?img=15"}
+]
